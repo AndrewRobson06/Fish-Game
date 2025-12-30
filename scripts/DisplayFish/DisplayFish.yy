@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"DisplayFish",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"DisplayFish",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
