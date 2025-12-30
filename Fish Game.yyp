@@ -119,6 +119,7 @@
     {"id":{"name":"spr_crab","path":"sprites/spr_crab/spr_crab.yy",},},
     {"id":{"name":"spr_crayfish","path":"sprites/spr_crayfish/spr_crayfish.yy",},},
     {"id":{"name":"spr_fishing_detector","path":"sprites/spr_fishing_detector/spr_fishing_detector.yy",},},
+    {"id":{"name":"spr_gar","path":"sprites/spr_gar/spr_gar.yy",},},
     {"id":{"name":"spr_garlic_paste","path":"sprites/spr_garlic_paste/spr_garlic_paste.yy",},},
     {"id":{"name":"spr_gold","path":"sprites/spr_gold/spr_gold.yy",},},
     {"id":{"name":"spr_goldfish","path":"sprites/spr_goldfish/spr_goldfish.yy",},},
