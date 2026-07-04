@@ -1,0 +1,1 @@
+global.moveToShop = false
