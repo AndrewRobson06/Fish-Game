@@ -1,5 +1,5 @@
 //properties
-duration = 20;
+duration = 25;
 targetRoom = room;
 color = c_black;
 

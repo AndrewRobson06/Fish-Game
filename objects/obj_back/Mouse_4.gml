@@ -1,1 +1,1 @@
-room_goto(Room1)
+FadeToRoom(Room1, 25, c_black)

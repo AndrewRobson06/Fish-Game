@@ -7,7 +7,7 @@ if (keyboard_check_pressed(vk_backspace) && !instance_exists(obj_room_transition
 	
 	if (room == rm_shop) _targetRoom = Room1
 	
-	FadeToRoom(_targetRoom, 20, c_black);
+	FadeToRoom(_targetRoom, 25, c_black);
 	
 	global.moveToShop = false;
 }
