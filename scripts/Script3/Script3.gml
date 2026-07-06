@@ -1,3 +1,3 @@
-function Script3(){
-
+function GetFish(){
+	
 }
